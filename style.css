@@ -32,3 +32,64 @@ body{
     text-decoration: none;
     color: #B08EAD;
 }
+.visit-block{
+    height: 817px;
+    width: 100%;
+    background: linear-gradient(#C9ADC6 60%,#D6BBD3 40%);
+    position: relative;
+}
+.vis-pic{
+    background: url(./media/photo-visit.png);
+    width: 851px;
+    height: 675px;
+    position: absolute;
+    top: 72px;
+    left: 178px;
+}
+.visit-block2{
+    height: 450px;
+    width: 425px;
+    background: #B08EAD;
+    position: absolute;
+    top: 182px;
+    left: 902px;
+}
+.vis_txt{
+    height: 215px;
+    width: 300px;
+    position: absolute;
+    top:124px;
+    left: 40.25px;
+}
+.vis_txt p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.vis_txt h1{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin: 0;
+}
+.vis_txt a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin:0;
+    text-decoration: none;
+    border-bottom: 3px solid #FFFFFF;
+}
