@@ -175,3 +175,73 @@ body{
     margin: 0;
     color: #FFFFFF;
 }
+.about{
+    height: 1500.96875px;
+    width: 1265px;
+    margin: auto;
+    margin-bottom: 91px;
+}
+.about_txt{
+    width: 608px;
+    height: 416px;
+}
+.about_card{
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 607.5px 608px;
+    border: 0;
+}
+.about_card1{
+    margin: 0 auto;
+    display: grid;
+    height: 457px;
+    grid-template-columns: 607.5px 608px;
+    border: 0;
+    border-bottom: 2px solid #D7B7D4;
+    margin-bottom: 40px;
+}
+.about_card2{
+    margin: 0 auto;
+    display: grid;
+    height: 546px;
+    grid-template-columns: 608px 607.5px;
+    border: 0;
+    border-bottom: 2px solid #D7B7D4;
+    margin-bottom: 40px;
+}
+.about h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    margin: 0;
+    margin-top: 88px;
+    margin-left: 60px;
+    padding-bottom: 10px;
+}
+.about p{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+    padding-left: 60px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+.about button{
+    height: 45px;
+    width: 141px;
+    border-radius: 25px;
+    cursor: pointer;
+    background: transparent;
+    color: #B99BB6;
+    border: 1px solid #B99BB6;
+    margin: 0;
+    margin-left: 60px;
+}
